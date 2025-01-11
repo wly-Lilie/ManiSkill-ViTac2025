@@ -1,1 +1,0 @@
-peg_in_hole/hexagon_peg.STL, peg_in_hole/cuboid_peg.STL, peg_in_hole/sim_hole_base_2.0mm.STL
